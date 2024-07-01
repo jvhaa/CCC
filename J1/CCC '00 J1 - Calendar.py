@@ -1,3 +1,6 @@
+# Canadian Computing Competition: 2000 Stage 1, Junior #1
+# https://dmoj.ca/problem/ccc00j1
+
 import sys
 import math
 
