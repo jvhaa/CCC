@@ -1,1 +1,1 @@
-# Solutions to The Canadian Computing Competition (CCC)
+# Solutions to The Canadian Computing Competition (CCC) in Python
