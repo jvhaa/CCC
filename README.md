@@ -1,1 +1,1 @@
-# mess
+# The Canadian Computing Competition (CCC)
